@@ -1,0 +1,2 @@
+GET http://localhost:5164/api/students
+Accept: application/json
