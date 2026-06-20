@@ -12,4 +12,6 @@ public class Enrollment
 {
     public object? StudentId { get; internal set; }
     public object? CourseId { get; internal set; }
+    public object EnrolledAt { get; internal set; }
+    public object Grade { get; internal set; }
 }

@@ -155,3 +155,15 @@ C:\Users\user\Desktop\M5-Lab-Session_1\obj\Debug\net10.0\refint\StudentApi.dll
 C:\Users\user\Desktop\M5-Lab-Session_1\obj\Debug\net10.0\StudentApi.pdb
 C:\Users\user\Desktop\M5-Lab-Session_1\obj\Debug\net10.0\StudentApi.genruntimeconfig.cache
 C:\Users\user\Desktop\M5-Lab-Session_1\obj\Debug\net10.0\ref\StudentApi.dll
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.AssemblyInfo.cs
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.sourcelink.json
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.dll
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\refint\StudentApi.dll
+C:\Users\user\Desktop\M5-Lab-Session-2\obj\Debug\net10.0\StudentApi.pdb
