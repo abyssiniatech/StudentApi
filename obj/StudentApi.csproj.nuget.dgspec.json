@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\studentApi\\StudentApi\\StudentApi.csproj": {}
+    "C:\\Users\\user\\Desktop\\M5-Lab-Session_1\\StudentApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\studentApi\\StudentApi\\StudentApi.csproj": {
+    "C:\\Users\\user\\Desktop\\M5-Lab-Session_1\\StudentApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\studentApi\\StudentApi\\StudentApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\M5-Lab-Session_1\\StudentApi.csproj",
         "projectName": "StudentApi",
-        "projectPath": "C:\\Users\\user\\Desktop\\studentApi\\StudentApi\\StudentApi.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\M5-Lab-Session_1\\StudentApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\studentApi\\StudentApi\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\M5-Lab-Session_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,6 +49,22 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[10.0.2, )"
             }
           },
           "imports": [
