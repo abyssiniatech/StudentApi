@@ -1,4 +1,4 @@
-namespace TmsApi.Entities;
+ namespace TmsApi.Entities.Models;
 public class Assessment
 {
     public int Id {get;set;}

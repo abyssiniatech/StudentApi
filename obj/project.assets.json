@@ -2252,11 +2252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\M5-Lab-Session_1\\StudentApi.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\M5-Lab-Session-2\\StudentApi.csproj",
       "projectName": "StudentApi",
-      "projectPath": "C:\\Users\\user\\Desktop\\M5-Lab-Session_1\\StudentApi.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\M5-Lab-Session-2\\StudentApi.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\M5-Lab-Session_1\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\M5-Lab-Session-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,15 +1,14 @@
-namespace TmsApi.Entities;
+
+
+namespace TmsApi.Entities.Models;
+
 public class Course
 {
-    public int Id{get;set;}
-    public required string Code{get;set;}
-    public required string Title{get;set;}
-    public int Capacity {get;set;}
-    public ICollection<Enrollment>Enrollments {get;set;} =new List<Enrollment>();
-}
+    public int Id { get; set; }
 
-public class Enrollment
-{
-    public object? StudentId { get; internal set; }
-    public object? CourseId { get; internal set; }
+    public string Title { get; set; } = null!;
+    public string Code { get; set; } = null!;
+
+    public ICollection<Enrollment> Enrollments { get; set; }
+        = new List<Enrollment>();
 }

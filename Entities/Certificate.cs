@@ -1,7 +1,7 @@
 using System;
 
-namespace TmsApi.Entities
-{
+namespace TmsApi.Entities.Models;
+
     public class Certificate
     {
         public int Id { get; set; }
@@ -12,5 +12,5 @@ namespace TmsApi.Entities
         public Student Student { get; set; } = null!;
         public Course Course {get;set;} =null!;
     }
-}
+
 
