@@ -2252,11 +2252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CSUG\\Desktop\\TmsDb\\StudentApi.csproj",
+      "projectUniqueName": "C:\\Users\\CSUG\\Desktop\\DotnetDb\\StudentApi.csproj",
       "projectName": "StudentApi",
-      "projectPath": "C:\\Users\\CSUG\\Desktop\\TmsDb\\StudentApi.csproj",
+      "projectPath": "C:\\Users\\CSUG\\Desktop\\DotnetDb\\StudentApi.csproj",
       "packagesPath": "C:\\Users\\CSUG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CSUG\\Desktop\\TmsDb\\obj\\",
+      "outputPath": "C:\\Users\\CSUG\\Desktop\\DotnetDb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CSUG\\AppData\\Roaming\\NuGet\\NuGet.Config"

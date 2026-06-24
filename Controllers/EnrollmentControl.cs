@@ -5,20 +5,20 @@ using TmsApi.Entities.Models;
 
 [Route("api/[controller]")]
 [ApiController]
-public class StudentsController : ControllerBase
+public class EnrollmentsController : ControllerBase
 {
     private readonly TmsDbContext _dbContext;
 
-    public StudentsController(TmsDbContext dbContext)
+    public EnrollmentsController(TmsDbContext dbContext)
     {
         _dbContext = dbContext;
     }
 
-    // GET: api/students
+    // GET: api/enrollments
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Student>>> GetStudents()
+    public async Task<ActionResult<IEnumerable<Enrollment>>> GetEnrollments()
     {
-        return await _dbContext.Students.ToListAsync();
+        return await _dbContext.Enrollments.ToListAsync();
     }
 
     // GET: api/students/5

@@ -12,4 +12,5 @@ public class Student
 
     public ICollection<Enrollment> Enrollments { get; set; }
         = new List<Enrollment>();
+    public bool IsActive { get; internal set; }
 }

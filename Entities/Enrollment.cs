@@ -10,4 +10,5 @@ public class Enrollment
     // Navigation properties
     public Student Student { get; set; } = null!;
     public Course Course { get; set; } = null!;
+    public int Id { get; internal set; }
 }

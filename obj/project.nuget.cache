@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "52/d4H/sp1k=",
+  "dgSpecHash": "0Vr+bjCWoPQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\CSUG\\Desktop\\TmsDb\\StudentApi.csproj",
+  "projectFilePath": "C:\\Users\\CSUG\\Desktop\\DotnetDb\\StudentApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CSUG\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\CSUG\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
