@@ -15,4 +15,5 @@ public class Course
     public string Code { get; set; } = string.Empty;
 
     public int CreditHours { get; set; }
+    public int MaxCapacity { get; set; }
 }

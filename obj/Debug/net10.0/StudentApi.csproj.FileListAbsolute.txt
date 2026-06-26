@@ -429,6 +429,7 @@ C:\Users\CSUG\Desktop\DotnetDb\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\Users\CSUG\Desktop\DotnetDb\bin\Debug\net10.0\Newtonsoft.Json.dll
 C:\Users\CSUG\Desktop\DotnetDb\bin\Debug\net10.0\Npgsql.dll
 C:\Users\CSUG\Desktop\DotnetDb\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\CSUG\Desktop\DotnetDb\bin\Debug\net10.0\Scalar.AspNetCore.dll
 C:\Users\CSUG\Desktop\DotnetDb\bin\Debug\net10.0\System.CodeDom.dll
 C:\Users\CSUG\Desktop\DotnetDb\bin\Debug\net10.0\System.Composition.AttributedModel.dll
 C:\Users\CSUG\Desktop\DotnetDb\bin\Debug\net10.0\System.Composition.Convention.dll
